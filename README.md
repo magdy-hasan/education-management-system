@@ -7,12 +7,15 @@ This just my implementation of it
 
 Features: 
 
-add students/courses/doctors/assignments 
+    -add students/courses/doctors/assignments 
 
-doctor can manage course/assignment
+    -doctor can manage course/assignment
 
-student can register/unregister from course
+    -student can register/unregister from course
 
-student can submit solution 
+    -student can submit solution 
 
-doctor can view student assignments solution
+    -doctor can view student assignments solution
+  
+Other features to be implemented
+
